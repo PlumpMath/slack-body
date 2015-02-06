@@ -1,5 +1,7 @@
 # slack body generator
 
+![](http://cl.ly/image/0I3V051f0B3z/Screen%20Shot%202015-02-06%20at%2012.52.42%20AM.png)
+
 ## Running Locally
 
 ```sh
